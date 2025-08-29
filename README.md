@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mehardeep 👋</h1>
 <p align="center">
-  <em>Software Engineer | Python, Data Science and Machine Learning Enthusiast | AI Explorer</em>
+  <em>Software Engineer | Python | Data Science | Machine Learning | Deep Learning | AI Explorer</em>
 </p>
 
 ---
