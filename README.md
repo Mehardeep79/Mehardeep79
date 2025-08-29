@@ -31,12 +31,12 @@ I'm a passionate Software Engineer specializing in Python and C++. My work range
 
 ## 📊 Coding Activity & Stats
 
-- 👉 [View my full GitHub contribution calendar (streak)](https://github.com/Mehardeep79)
-- 👉 [View my LeetCode profile & streak calendar](https://leetcode.com/Mehardeep7/)
+- 👉 [Leetcode Profile](https://leetcode.com/Mehardeep7/)
 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mehardeep-singh-sandhu/)
+- [E-Mail](sandhu.mehardeep792003@gmail.com)
 
 ---
 
