@@ -7,14 +7,14 @@
 
 - 📫 How to reach me **sandhu.mehardeep792003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hZlWO5jU5I5xyvIjYu8tWkDBLu-Ab4Bq/view?usp=drive_link](https://drive.google.com/file/d/1hZlWO5jU5I5xyvIjYu8tWkDBLu-Ab4Bq/view?usp=drive_link)
+- 📄 Know about my experiences [Link to my Resume](https://drive.google.com/file/d/1hZlWO5jU5I5xyvIjYu8tWkDBLu-Ab4Bq/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mehardeep singh sandhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehardeep singh sandhu" height="30" width="40" /></a>
-<a href="https://kaggle.com/mehardeepsandhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mehardeepsandhu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mehardeep7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehardeep7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sandhumeharczwr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sandhumeharczwr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mehardeep-singh-sandhu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehardeep singh sandhu" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mehardeepsandhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mehardeepsandhu" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Mehardeep7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehardeep7" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/sandhumeharczwr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sandhumeharczwr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
