@@ -13,12 +13,15 @@ I'm a passionate Software Engineer specializing in Python and C++. My work range
 - [Transformer Translator](https://github.com/Mehardeep79/transformer-translator)  
   A repository for translating text using cutting-edge Generative AI transformer models.
 
+## 📊 Daily Coding Activity & Stats
 
 - 🔭 I’m currently working on [Synthetic Data Generation Using GAN](https://github.com/Mehardeep79/Synthetic-Data-Generation-GAN)
 
 - 🌱 I’m currently learning **Data Collection Techniques (Web Scraping) and Data Visualization (MatPlotLib and Seaborn)**
 
-- 📫 How to reach me **sandhu.mehardeep792003@gmail.com**
+## 📫 Connect with Me
+
+- 📫 **E-Mail:**  **sandhu.mehardeep792003@gmail.com**
 
 - 📄 Know about my experiences [Link to my Resume](https://drive.google.com/file/d/1hZlWO5jU5I5xyvIjYu8tWkDBLu-Ab4Bq/view?usp=drive_link)
 
