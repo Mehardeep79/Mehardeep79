@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mehardeep Singh Sandhu</h1>
+<h1 align="center">I'm Mehardeep Singh Sandhu</h1>
 <h3 align="center">Data Science | Machine Learning | Deep Learning | Generative AI</h3>
+
+## 🧑‍💻 About Me
+
+I'm a passionate Software Engineer specializing in Python and C++. My work ranges from building intelligent AI solutions to developing robust embedded and networking systems.
+
+## 🌟 Featured Projects
+
+- [Custom Object Identifier](https://github.com/Mehardeep79/custom-object-identifier)  
+  A powerful tool for detecting and identifying custom objects in images and videos using NVIDIA's Jetson Nano and TensorRT for CNN.
+
+- [Transformer Translator](https://github.com/Mehardeep79/transformer-translator)  
+  A repository for translating text using cutting-edge Generative AI transformer models.
+
 
 - 🔭 I’m currently working on [Synthetic Data Generation Using GAN](https://github.com/Mehardeep79/Synthetic-Data-Generation-GAN)
 
