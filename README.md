@@ -5,6 +5,14 @@
 
 I'm a passionate Software Engineer specializing in Python and C++. My work ranges from building intelligent AI solutions to developing robust embedded and networking systems.
 
+## 🚀 Top Skills
+
+- **Python Stack:**  
+  Numpy, Pandas, MatPlotLib, Seaborn, Tensorflow, Pytorch, TensorRT, Streamlit, Hugging Face Transformers & Models
+- **C++ Stack:**  
+  Embedded C, Networking C++ (TCP/IP Protocols)
+
+
 ## 🌟 Featured Projects
 
 - [Custom Object Identifier](https://github.com/Mehardeep79/custom-object-identifier)  
