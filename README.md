@@ -28,7 +28,7 @@ I'm a passionate Software Engineer specializing in Python and C++. My work range
 
 - 🔭 I’m currently working on [Synthetic Data Generation Using GAN](https://github.com/Mehardeep79/Synthetic-Data-Generation-GAN)
 
-- 🌱 I’m currently learning **Data Collection Techniques (Web Scraping) and Data Visualization (MatPlotLib and Seaborn)**
+- 🌱 I’m currently learning **Data Collection Techniques (Web Scraping)
 
 ## 📫 Connect with Me
 
