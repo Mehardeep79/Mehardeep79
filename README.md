@@ -26,7 +26,7 @@ I'm a passionate Software Engineer specializing in Python and C++. My work range
 
 ## 📊 Daily Coding Activity
 
-- 🔭 I’m currently working on [Synthetic Data Generation Using GAN](https://github.com/Mehardeep79/Synthetic-Data-Generation-GAN)
+- 🔭 I’m currently working on [Generative AI Model from Scratch]
 
 - 🌱 I’m currently learning **Data Collection Techniques (Web Scraping)
 
