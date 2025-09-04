@@ -49,4 +49,4 @@ I'm a passionate Software Engineer specializing in Python and C++. My work range
 ![Mehardeep Singh Sandhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehardeep79&show_icons=true&theme=transparent)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehardeep79&show_icons=true&theme=transparent" alt="mehardeep79" /></p>
+
