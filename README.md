@@ -30,7 +30,7 @@ I'm a passionate Software Engineer specializing in Python and C++. My work range
 
 - 🌱 I’m currently learning **Data Collection Techniques (Web Scraping)
 
-## 📫 Connect with Me
+## 📫 Contact Me:
 
 - 📫 **E-Mail:**  **sandhu.mehardeep792003@gmail.com**
 
