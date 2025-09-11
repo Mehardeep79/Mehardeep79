@@ -28,7 +28,7 @@ I'm a passionate Software Engineer specializing in Python and C++. My work range
 
 - 🔭 I’m currently working on [Generative AI Model from Scratch](https://github.com/Mehardeep79/Gen-AI-Model-MNIST)
 
-- 🌱 I’m currently learning **Data Collection Techniques (Web Scraping)
+- 🌱 I’m currently learning **Data Collection Techniques (Web Scraping)**
 
 ## 📫 Contact Me:
 
