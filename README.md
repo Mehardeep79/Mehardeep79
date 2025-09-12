@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate Software Engineer specializing in Python and C++. My work ranges from building intelligent AI solutions to developing robust embedded and networking systems.
+I'm a passionate Software Engineer specializing in Python and C++. My work ranges from building intelligent AI solutions/ Machine Learning Models to developing robust embedded and networking systems.
 
 ## 🚀 Top Skills
 
