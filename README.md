@@ -1,4 +1,5 @@
 <h1 align="center">I'm Mehardeep Singh Sandhu</h1>
+<h2 align="center">Product Analyst Intern at Economic Times</h2>
 <h3 align="center">Data Science | Machine Learning | Deep Learning | Generative AI</h3>
 
 ## 🧑‍💻 About Me
