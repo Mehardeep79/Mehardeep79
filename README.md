@@ -37,7 +37,7 @@ I'm a passionate Software Engineer specializing in Python and C++. My work range
 
 - 📫 **E-Mail:**  **sandhu.mehardeep792003@gmail.com**
 
-- 📄 Know about my experiences [Link to my Resume](https://drive.google.com/file/d/1hZlWO5jU5I5xyvIjYu8tWkDBLu-Ab4Bq/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hZlWO5jU5I5xyvIjYu8tWkDBLu-Ab4Bq/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
