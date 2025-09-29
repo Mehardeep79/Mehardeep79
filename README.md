@@ -31,7 +31,7 @@ I'm a passionate Software Engineer specializing in Python and C++. My work range
 
 - 🌱 I’m currently learning **Data Collection Techniques (Web Scraping)**
 
-- Also creating a prototype for the Google GenAI Exchange Hackathon
+
 
 ## 📫 Contact Me:
 
