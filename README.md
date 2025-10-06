@@ -27,7 +27,7 @@ I'm a passionate Software Engineer specializing in Python and C++. My work range
 
 ## 📊 Daily Coding Activity
 
-- 🔭 I’m currently working on [MLOps Pipeline using Apache Airflow](https://github.com/Mehardeep79/Screen-Usage-MLOps-Prediction-Pipeline)
+- 🔭 I’m currently working on 
 
 - 🌱 I’m currently learning **Data Collection Techniques (Web Scraping)**
 
