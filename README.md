@@ -29,8 +29,7 @@ I'm a passionate Software Engineer specializing in Python and C++. My work range
 
 - 🔭 I’m currently working on AWS Projects. Just completed AWS S3 buckets to host website.
 
-- 🌱 I’m currently learning **Data Collection Techniques (Web Scraping)**
-
+- 🌱 I’m currently learning from Hugging Face Courses
 
 
 ## 📫 Contact Me:
