@@ -27,7 +27,7 @@ I'm a passionate Software Engineer specializing in Python and C++. My work range
 
 ## 📊 Daily Coding Activity
 
-- 🔭 I’m currently working on AWS Projects. Just completed AWS S3 buckets to host website.
+- 🔭 I’m currently working on AWS Projects. 
 
 - 🌱 I’m currently learning from Hugging Face Courses
 
