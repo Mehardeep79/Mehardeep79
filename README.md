@@ -1,5 +1,5 @@
 <h1 align="center">Mehardeep Singh Sandhu</h1>
-<h2 align="center">Product Analyst Intern @ Economic Times</h2>
+<h2 align="center">AI Engineer @ Wysbryx</h2>
 <h3 align="center">Data Science | Machine Learning | Deep Learning | Generative AI</h3>
 
 ## 🧑‍💻 About Me
